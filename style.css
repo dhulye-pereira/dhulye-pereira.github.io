@@ -1,11 +1,39 @@
+body {
+    background-color: mediumpurple;
+}
+
 h1 {
     font-family: "Merriweather", serif;
     font-size: 25px;
 }
+
 h2 {
-font-family: "Playwrite HU", cursive;
-font-size:18px;
+    font-family: "Playwrite HU", cursive;
+    font-size:18px;
 }
-body {
-    background-color: mediumpurple;
+
+#paragrafo {
+    color: gold;
+    text-decoration: underline;
+}
+
+.grande {
+    font-size: 35px;
+}
+
+.menosgrande {
+    font-size: 25px;
+}
+
+.medio {
+    font-size: 22px;
+}
+
+.pequeno {
+    width: 20px;
+    font-size: 15px;
+}
+
+.pequenino {
+    font-size: 10px;
 }
