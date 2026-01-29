@@ -37,3 +37,23 @@ h2 {
 .pequenino {
     font-size: 10px;
 }
+
+.name {
+    text-align: center;
+    border: 2px solid chartreuse;
+}
+
+.descricao {
+    border: 2px solid red;
+    display: inline-block;
+    
+   
+}
+
+#foto {
+    border: 5px solid blue;
+    display: inline-block;
+    float: right;
+    
+
+}
